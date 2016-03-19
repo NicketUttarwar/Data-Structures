@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\nicket\uc\data structures & algorithms\dynamicarray\dynamicarray\source.cpp(141): warning C4715: 'DynamicArray::getsize' : not all control paths return a value
+  DynamicArray.vcxproj -> D:\nicket\UC\Data Structures & Algorithms\DynamicArray\Debug\DynamicArray.exe
